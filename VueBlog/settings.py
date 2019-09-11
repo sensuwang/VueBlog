@@ -98,10 +98,10 @@ WSGI_APPLICATION = 'VueBlog.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': "vueblog",
-        'USER': "sensuu",
-        'PASSWORD': "WJS333",
-        'HOST': "106.14.115.219",
+        'NAME': "****",
+        'USER': "****",
+        'PASSWORD': "****",
+        'HOST': "****",
         'OPTIONS': {"init_command": "SET default_storage_engine=INNODB;"},
     }
 }
